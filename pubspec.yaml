@@ -1,5 +1,5 @@
 name: custom_theme_picker
-description: "A new Flutter package project."
+description: A flexible theme manager for Flutter that allows for easy creation, persistence, and switching of multiple app themes, including a pre-built theme picker widget.
 version: 0.0.1
 repository: https://github.com/WALKER-ALEN/custom_theme_picker.git
 
